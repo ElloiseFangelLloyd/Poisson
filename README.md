@@ -38,3 +38,9 @@ f(x, y, z) = \begin{cases} 200, & -1 \leq x \leq -\frac{3}{8}, \quad  -1 \leq y 
 $$
 
 The problem is discretised on a  cubic $N \times N \times N$ grid, where $(u_{i,j,k})$ gives the solution at the point $(i,j,k)$. 
+
+
+***
+### Credit
+
+This solver was written by Elloïse Fangel-Lloyd, Dana Lüdemann, and Clemens Zengler.
